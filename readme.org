@@ -1,0 +1,3 @@
+#+title: ~lean-contracts~
+
+Replication of https://github.com/HIPERFIT/contracts/blob/master/doc/icfp2015.pdf
